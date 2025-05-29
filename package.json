@@ -1,0 +1,24 @@
+{
+  "name": "my-react-vite-app",
+  "version": "1.0.0",
+  "description": "This is my react app created with vite to learn",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepkunaparaju/my-react-vite-app.git"
+  },
+  "author": "Sandeep Kunaparaju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepkunaparaju/my-react-vite-app/issues"
+  },
+  "homepage": "https://github.com/sandeepkunaparaju/my-react-vite-app#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "vite": "^6.3.5"
+  }
+}
